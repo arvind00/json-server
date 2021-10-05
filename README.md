@@ -9,7 +9,7 @@ A simple node and express server to handle HTTP request and serve stub JSON file
 - This is not a plug and play thing.
 - You need to explicitly handle each incoming request.
 - But don't worry. Everything will be explained gradually.
-- So that you know exactly what is going on what to do.
+- So that you know exactly what is going on and what to do.
 - Nothing will be hidden from your sight.
 
 ## Define Mappings
