@@ -39,7 +39,7 @@ exports.mappings = {
 - The `jsonPath` defined in the mappings is used in the router to serve the stub json for a req end point
 - Here `/services/dashboard/getUser` is served with `json_stubs/getUser.json`
 - Similarly keep adding your stub jsons in the `json_stubs` folder and map them properly in `mappings.js`
-- Handle the request in routes.json and used mappings info to serve the json.
+- Handle the request in routes.json and use mappings info to serve the json.
 
 ## Sample Route
 ```js
